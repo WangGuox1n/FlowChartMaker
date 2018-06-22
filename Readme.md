@@ -1,4 +1,4 @@
-
+![](https://github.com/WangGuox1n/FlowChartMaker/blob/master/main.png)
 1. 点击左侧图形，然后在绘图区中左键点击向右下方拖拽，即可绘制图形；
 2. 点击左侧的连接线，然后依次单击两个图形，即可连接；
 3. 单击选中某个图形，然后可以进行复制、删除操作；
